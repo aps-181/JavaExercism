@@ -4,7 +4,331 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f869a589-bd20-4216-b79f-52e08439666c" name="Changes" comment="" />
+    <list default="true" id="f869a589-bd20-4216-b79f-52e08439666c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hello-world/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/8.0/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/8.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/8.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/classes/java/main/Greeter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/classes/java/test/GreeterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/classes/GreeterTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/test-results/test/TEST-GreeterTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/src/main/java/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/src/test/java/GreeterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/8.0/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/8.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/8.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/HINTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/classes/java/main/Lasagna.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/classes/java/test/LasagnaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/classes/java/test/utils/Lasagna.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/classes/java/test/utils/ReflectionProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/classes/LasagnaTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/test-results/test/TEST-LasagnaTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/src/main/java/Lasagna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/src/test/java/LasagnaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/src/test/java/utils/Lasagna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/src/test/java/utils/ReflectionProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/8.0/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/8.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/8.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/classes/java/main/Leap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/classes/java/test/LeapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/reports/tests/test/classes/LeapTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/test-results/test/TEST-LeapTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/tmp/compileTestJava/compileTransaction/stash-dir/LeapTest.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/src/main/java/Leap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leap/src/test/java/LeapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/8.0/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/8.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/8.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/classes/java/main/RnaTranscription.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/classes/java/test/RnaTranscriptionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/classes/RnaTranscriptionTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/test-results/test/TEST-RnaTranscriptionTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/tmp/compileJava/compileTransaction/stash-dir/RnaTranscription.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/tmp/compileTestJava/compileTransaction/stash-dir/RnaTranscriptionTest.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/src/main/java/RnaTranscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rna-transcription/src/test/java/RnaTranscriptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/8.0/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/8.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/8.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/classes/java/main/Twofer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/classes/java/test/TwoferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/classes/TwoferTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/test-results/test/TEST-TwoferTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/tmp/compileTestJava/compileTransaction/stash-dir/TwoferTest.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/src/main/java/Twofer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/src/test/java/TwoferTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/classes/ErrorHandlingTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/classes/ErrorHandlingTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/build/test-results/test/TEST-ErrorHandlingTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/build/test-results/test/TEST-ErrorHandlingTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error-handling/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../error-handling/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/build/reports/tests/test/classes/PrimeCalculatorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/build/reports/tests/test/classes/PrimeCalculatorTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/build/test-results/test/TEST-PrimeCalculatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/build/test-results/test/TEST-PrimeCalculatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/classes/java/main/PythagoreanTriplet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/classes/java/main/PythagoreanTriplet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/classes/java/main/PythagoreanTripletBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/classes/java/main/PythagoreanTripletBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/classes/java/test/PythagoreanTripletTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/classes/java/test/PythagoreanTripletTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/reports/tests/test/classes/PythagoreanTripletTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/reports/tests/test/classes/PythagoreanTripletTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/test-results/test/TEST-PythagoreanTripletTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/test-results/test/TEST-PythagoreanTripletTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/tmp/compileJava/compileTransaction/stash-dir/PythagoreanTriplet.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/tmp/compileJava/compileTransaction/stash-dir/PythagoreanTriplet.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/tmp/compileJava/compileTransaction/stash-dir/PythagoreanTripletBuilder.class.uniqueId1" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/tmp/compileJava/compileTransaction/stash-dir/PythagoreanTripletBuilder.class.uniqueId1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/tmp/compileTestJava/compileTransaction/stash-dir/PythagoreanTripletTest.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/tmp/compileTestJava/compileTransaction/stash-dir/PythagoreanTripletTest.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/src/main/java/PythagoreanTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/src/main/java/PythagoreanTriplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/src/main/java/PythagoreanTripletBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/src/main/java/PythagoreanTripletBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythagorean-triplet/src/test/java/PythagoreanTripletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pythagorean-triplet/src/test/java/PythagoreanTripletTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/build/reports/tests/test/classes/ResistorColorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/build/reports/tests/test/classes/ResistorColorTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/build/test-results/test/TEST-ResistorColorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/build/test-results/test/TEST-ResistorColorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/SimpleLinkedListTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/SimpleLinkedListTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-SimpleLinkedListTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-SimpleLinkedListTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +354,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Aravind/Exercism/java/simple-linked-list"
+    "last_opened_file_path": "C:/Users/Aravind/Desktop/@aRaVinD/ThoughtWorks/Training/Java/Exercism/java/hello-world"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

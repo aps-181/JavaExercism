@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PrimeCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-06-27T17:54:09" hostname="LAPTOP-FIUDGPT7" time="0.786">
+<testsuite name="PrimeCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-06-30T07:04:44" hostname="LAPTOP-FIUDGPT7" time="0.813">
   <properties/>
-  <testcase name="testUndefinedPrime" classname="PrimeCalculatorTest" time="0.005"/>
-  <testcase name="testSixthPrime" classname="PrimeCalculatorTest" time="0.045"/>
-  <testcase name="testFirstPrime" classname="PrimeCalculatorTest" time="0.0"/>
-  <testcase name="testSecondPrime" classname="PrimeCalculatorTest" time="0.001"/>
-  <testcase name="testBigPrime" classname="PrimeCalculatorTest" time="0.735"/>
+  <testcase name="testUndefinedPrime" classname="PrimeCalculatorTest" time="0.01"/>
+  <testcase name="testSixthPrime" classname="PrimeCalculatorTest" time="0.085"/>
+  <testcase name="testFirstPrime" classname="PrimeCalculatorTest" time="0.001"/>
+  <testcase name="testSecondPrime" classname="PrimeCalculatorTest" time="0.0"/>
+  <testcase name="testBigPrime" classname="PrimeCalculatorTest" time="0.715"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
